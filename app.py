@@ -2,11 +2,11 @@ import gradio as gr
 import tensorflow as tf
 import cv2
 
-title = "Covid 19 Prediction App using X-ray Images"
+title = "CoviDigiScan"
 
 head = (
   "<center>"
-  "Upload an X-ray image to check for covid19. The app is for research purposes and not clinically authorized"
+  "Upload an X-ray image to check for covid19"
   "</center>"
 )
 
